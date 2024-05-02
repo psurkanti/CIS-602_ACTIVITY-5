@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1714676679468" clover="3.2.0">
-  <project timestamp="1714676679468" name="All files">
+<coverage generated="1714676848284" clover="3.2.0">
+  <project timestamp="1714676848284" name="All files">
     <metrics statements="22" coveredstatements="21" conditionals="19" coveredconditionals="18" methods="1" coveredmethods="1" elements="42" coveredelements="40" complexity="0" loc="22" ncloc="22" packages="1" files="1" classes="1"/>
     <file name="CalculateComission.js" path="/workspaces/CIS-602_ACTIVITY-5/CalculateComission.js">
       <metrics statements="22" coveredstatements="21" conditionals="19" coveredconditionals="18" methods="1" coveredmethods="1"/>
