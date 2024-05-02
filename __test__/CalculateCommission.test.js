@@ -8,7 +8,7 @@ describe('calculateCommissionFunction', () => {
     expect(calculateCommissionFunction(2, 1, 1)).toEqual([145, 10]);
     expect(calculateCommissionFunction(1, 2, 1)).toEqual([130, 8.5]);
     expect(calculateCommissionFunction(1, 1, 2)).toEqual([125, 8]);
-    expect(calculateCommissionFunction(35, 40, 45)).toEqual([3900, 775.5]); //Midpoint
+    expect(calculateCommissionFunction(35, 40, 45)).toEqual([3900, 775.5]); 
     expect(calculateCommissionFunction(70, 80, 90)).toEqual([7800, 1555.5]); //If inputs are at Max
     expect(calculateCommissionFunction(69, 80, 90)).toEqual([7755, 1546.5]); 
     expect(calculateCommissionFunction(70, 79, 90)).toEqual([7770, 1549.5]); 
